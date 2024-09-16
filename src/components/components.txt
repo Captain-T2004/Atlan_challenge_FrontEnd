@@ -1,0 +1,4 @@
+This folder contains all the components used in the web app,
+In this case only 2:
+	1. Header: Self defined
+	2. PublicView: This is the page component a user will see when they visit the site
