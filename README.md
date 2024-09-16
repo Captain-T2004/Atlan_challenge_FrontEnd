@@ -71,4 +71,4 @@ A React-based frontend application for generating personalized travel itinerarie
 
 [Akshay Behl](https://www.linkedin.com/in/akshay-behl-450661258/), akshaybehl213@outlook.com
 
-Project Link: [https://github.com/Captain-T2004/Atlan_challenge_FrontEnd](https://github.com/Captain-T2004/Atlan_challenge_FrontEnd)
+Project Link: [https://atlan-challenge-front-end.vercel.app/](https://atlan-challenge-front-end.vercel.app/)
